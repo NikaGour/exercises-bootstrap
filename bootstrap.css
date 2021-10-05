@@ -1,0 +1,10 @@
+.mycontainer {
+    background-color: white;
+    text-align: center;
+}
+
+[class*="col-"] {
+    background-color: #cda5f3 ;
+    border: solid 1px black;
+    border-radius: 5px;
+}
